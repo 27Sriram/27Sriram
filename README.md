@@ -8,12 +8,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
-
-# GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=sanjay2729117&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanjay2729117&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay2729117&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=sanjay2729117&icon=0&color=0)](https://visitcount.itsvg.in)
